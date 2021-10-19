@@ -1,7 +1,0 @@
--> Hello there!
-
-->name:mumtaz rahmani
-  username:mumtazrahmani
-  date:30-07-2020
-  time:7.33
-
